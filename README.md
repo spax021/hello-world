@@ -1,11 +1,26 @@
 # hello-world
-My first repository
+Moj prvi repositorijum
 
-Iskreno nemam pojma sta se trenuntno desava ovde, al navodno bi trebalo da sam napravio granu koja je klonirana od master grane i sad treba na njoj da napravim promene i da se te promene preslikaju i na master. Krace receno, I have no clue what am I doing.
+Lista ključnih komandi:
 
-sad ide promena kroz program, da vidim sta sam uradio. hahaha :D
+ADD COMMIT PUSH (pull - ako treba, tj sa tim povlacis fajlove)
+
+git clone (link repositorijuma)
+
+ls - lista fajlova u direktorijumu
+
+vim - ovim se ulazi u odredjeni fajl
+cd - ovim se ulazi u odredjeni direktorijum
+
+sa shift + q izlazis iz fajla tacnije prvo pritisnes to pa "x" i ENTER, x - snimi i izadji
+
+git add --all, dodaj fajlove ako su ubaceni
+
+git commit -m "komentar"
+
+git push -u origin master
+
+git status
+git log
 
 
-radim sad drugu promenu na E particiji i proveru znanja do sada sta sam uradio.
-
-zanimljivo ovo :)
